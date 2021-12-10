@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Kings&family=Montserrat:wght@400;700&display=swap'); 
+body{
+    
+    font-family: 'Caveat', cursive;
+    font-family: 'Kings', cursive;
+    font-family: 'Montserrat', sans-serif;
+    background-color: turquoise;
+   
+}
+#textarea {
+    width: 30%;
+    height: 12vh;
+    display: block;
+    margin: 1rem; 
+    padding:2rem;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+
+#output{
+    border: 2px solid black;
+    background-color: white;
+    height: 12vh;
+    display: block;
+    width: 30%;
+    margin: 1rem;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+}
+#txt-input{
+    text-align: center;
+    diplay:center;
+    width: 30%;
+    height: 12vh;
+    display: block;
+    margin: 1rem; 
+    padding:2rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+    }
+
+
+
+}
+.top-head {
+    border: 2px solid red;;
+    background-color: #FCD34D;
+    text-align: center;
+    height:10vh;
+    font-size: small;
+
+}
+
+}
+
+.setup{
+    textarea:center;
+
+}
+
+#btn-translate{
+    background-color:blueviolet;
+    font-size:large;
+    width: 20%;
+    height: 5vh;
+    text-align: center;
+    margin:auto;
+    border-radius: 1rem;
+    border:2px solid black;
+
+    
+
+}
+style{
+    text-align: center;
+
+}
+.middle{
+    display:block;
+    text-align: center;
+}
+.downm{
+
+    text-align:center;
+    font-family:@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Montserrat:wght@400;700&display=swap');
+    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+
+    
+}
+p{
+    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Montserrat:wght@400;700&display=swap'); 
+    font-family: 'Caveat', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
